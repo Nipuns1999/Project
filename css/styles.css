@@ -41,20 +41,15 @@ hr {
 
 
 .toppest {
-  /* background-color:  #1dd3bd; */
   padding-top: 100px;
   /* position: relative; */
   /* background-image: url(https://images.pexels.com/photos/754261/pexels-photo-754261.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1); */
   background-image: url('background.jpg');
-  /* background-image: url(https://images.pexels.com/photos/1005644/pexels-photo-1005644.jpeg?cs=srgb&dl=pexels-oleg-magni-1005644.jpg&fm=jpg);*/
   padding-bottom: 10%;
   margin-top: 1px;
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
-
-  /* https://images.pexels.com/photos/248515/pexels-photo-248515.png?cs=srgb&dl=pexels-pixabay-248515.jpg&fm=jpg */
-  /* https://images.pexels.com/photos/247671/pexels-photo-247671.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1 */
 }
 .middle-container {
   margin: 30px 0 30px 0;
